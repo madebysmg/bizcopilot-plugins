@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="기업스크리닝">
+  <rect width="32" height="32" rx="7" fill="#008b7a"/>
+  <path d="M8 24V9.5A1.5 1.5 0 0 1 9.5 8h8A1.5 1.5 0 0 1 19 9.5V13h3.5a1.5 1.5 0 0 1 1.5 1.5V24" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M12 12h3m-3 4h3m-3 4h3m4-3h2m-2 3h2M6 24h20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+</svg>

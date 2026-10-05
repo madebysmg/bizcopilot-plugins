@@ -1,0 +1,25 @@
+{
+  "name": "bizcopilot",
+  "version": "0.1.0",
+  "description": "BizCopilot(한국 기업 검토·M&A 워크스페이스) 연결과 기업 브리핑·메모 스킬.",
+  "author": { "name": "BizCopilot", "url": "https://bizcopilot.madebysmg.com" },
+  "homepage": "https://bizcopilot.madebysmg.com",
+  "keywords": ["korea", "company", "due-diligence", "m&a", "screening"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "BizCopilot",
+    "shortDescription": "한국 기업 브리핑과 검토 메모",
+    "longDescription": "이름이나 사업자번호로 기업을 찾아 개요·재무·임원·주주·관계사를 한 번에 브리핑하고, 검토 메모를 저장하거나 찾습니다. 삭제·관리·설정은 웹앱에서만 할 수 있습니다.",
+    "developerName": "BizCopilot",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://bizcopilot.madebysmg.com",
+    "privacyPolicyURL": "https://bizcopilot.madebysmg.com/privacy",
+    "termsOfServiceURL": "https://bizcopilot.madebysmg.com/terms",
+    "defaultPrompt": "삼성전자 브리핑 해줘",
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/favicon.svg",
+    "screenshots": []
+  }
+}

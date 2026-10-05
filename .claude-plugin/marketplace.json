@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bizcopilot",
+  "description": "BizCopilot(한국 기업 검토·M&A 워크스페이스) 플러그인 모음",
+  "owner": { "name": "BizCopilot" },
+  "plugins": [
+    {
+      "name": "bizcopilot",
+      "description": "BizCopilot 연결과 기업 브리핑·메모 스킬. 설치 후 커넥터 탭에서 BizCopilot을 한 번 연결하세요.",
+      "category": "productivity",
+      "source": "./plugins/bizcopilot",
+      "homepage": "https://bizcopilot.madebysmg.com"
+    }
+  ]
+}

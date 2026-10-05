@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bizcopilot": {
+      "type": "http",
+      "url": "https://bizcopilot-mcp.madebysmg.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bizcopilot",
+  "version": "0.1.0",
+  "description": "BizCopilot(한국 기업 검토·M&A 워크스페이스) 연결과 기업 브리핑·메모 스킬. 설치 후 커넥터 탭에서 BizCopilot을 한 번 연결하세요.",
+  "author": { "name": "BizCopilot" },
+  "homepage": "https://bizcopilot.madebysmg.com",
+  "keywords": ["korea", "company", "due-diligence", "m&a", "screening"]
+}
